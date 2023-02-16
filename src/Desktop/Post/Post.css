@@ -1,0 +1,112 @@
+.aside-form{
+    background-color: rgb(177, 174, 174);
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px 10px;
+    margin: 2px;
+    display: inline-block;
+    right: 50px;
+    top: 20px;
+    bottom: 80px;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    position: fixed;
+    text-align: center;
+
+}
+#h31{
+    border: 1px solid red;
+    margin-top: 2px;
+    padding: 15px;
+}
+.round{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 4px;
+}
+button{
+    margin: 5px;
+    padding: 5px 45px;
+    color: rgb(235, 243, 240);
+    background-color: brown;
+    border-radius: 20px;
+}
+
+.post-property-with-img{
+    width: 550px;
+    height: 350px;
+    padding: 20px;
+}
+#pic1{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    margin: 20px;
+    border-radius: 20px;
+}
+.first-contents{
+   height: 250px;
+   width: 350px;
+   position: relative;
+   left: 450px; 
+   top: 20px;
+   font-size: 25px;
+   padding: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.works-text{
+    margin: 25px;
+    border: 1px solid red;
+    width: 650px;
+
+}
+.selling-property{
+    margin: 25px;
+    border: 1px solid red;
+    width: 650px;
+ 
+}
+
+.benefits-sell{
+    margin: 25px;
+    border: 1px solid red;
+    width: 700px;
+   
+}
+.work-img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.tips-sell-img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin: 20px;
+    border-radius: 20px;
+}  
+#bentits-img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.Testimonials{
+    background-color: rgb(134, 134, 214);
+    border: 1px solid black;
+}
+.cards{
+    border: 1px solid black;
+    width: 350px;
+    display: flex;
+    padding: 20px;
+}

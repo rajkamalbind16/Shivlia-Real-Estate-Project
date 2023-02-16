@@ -1,0 +1,39 @@
+.signup-form{
+    border: 1px solid red;
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+    padding: 25px;
+    position: relative;
+    left: 750px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.input-form{
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+    background: transparent;
+}
+
+button{
+    padding: 10px 25px;
+}
+
+.bannerpic{
+    height: 550px;
+    width: 650px;
+    position: relative;
+    bottom: 550px;
+}
+
+.content-text{
+    position: relative;
+    bottom: 1030px;
+    width: 450px;
+    height: auto;
+    margin: 10px;
+    padding: 20px;
+    background: transparent;
+}

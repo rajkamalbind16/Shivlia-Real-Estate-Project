@@ -1,0 +1,56 @@
+.align-right{
+    display: inline-block;
+    position:absolute;
+    justify-content:right ;
+    text-align: left;
+    right: 55px;
+    width: 500px;
+    height: 60px;
+    top: 30px;
+    margin-left: 0px;
+}
+
+.left-align{
+    display: inline-block;
+    height: 80px;
+    width: 500px; 
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}
+
+.span-items{
+    
+width:auto
+}
+.list-items{
+    margin: 0px 0px 0px 10px;
+    padding: 2px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(104, 102, 102);
+}
+
+#disclaimer{
+    font-size: 15px;
+    font-weight: 100;
+    margin: 8px;
+    padding: 10px;
+}
+.list-items1{
+    margin: 0px 0px 0px 35px;
+    padding: 2px;
+}
+.list-items1:hover{
+    color: red;
+}
+.my-icons{
+    font-size: 25px;
+    margin: 4px;
+    padding: 10px;
+}
+.my-icons:hover{
+    color: red;
+}

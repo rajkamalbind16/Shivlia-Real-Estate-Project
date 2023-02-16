@@ -1,0 +1,97 @@
+
+.maincontainer{
+    border: 1px solid red;
+    background-color: blueviolet;
+    height: 350px;
+    width: 100%;
+    text-align: center;
+    background: transparent;
+    background-image: url('../image/home2.jpeg');
+    background-position: center;
+
+}
+.box{
+    margin: 10px;
+    padding: 3px;
+    justify-content: space-around;
+    width: 300px;
+    height: 20px;
+}
+
+.boxItem{
+    margin: 10px;
+    background: transparent;
+    height: auto;
+}
+#inputbox{
+    width: 350px;
+    height: 25px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+/* section2 */
+
+.section2{
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 15px;
+
+
+}
+
+
+.cardsaera{
+    width: 100%;
+}
+#card1{
+    background-image: url('../image/home.jpg');
+    height: 250px;
+    width: 250px;
+}
+
+#card2{
+    background-image: url('../image/home.jpg');
+    height: 250px;
+    width: 250px;
+}
+#card3{
+    background-image: url('../image/home.jpg');
+    height: 250px;
+    width: 250px;
+    
+}
+#card4{
+    background-image: url('../image/home.jpg');
+    height: 250px;
+    width: 250px;
+}
+#card5{
+    background-image: url('../image/home.jpg');
+    height: 250px;
+    width: 250px;
+}
+#card6{
+    background-image: url('../image/home.jpg');
+    height: 200px;
+    width: 200px;
+}
+#card7{
+    background-image: url('../image/home.jpg');
+    height: 200px;
+    width: 200px;
+}#card8{
+    background-image: url('../image/home.jpg');
+    height: 200px;
+    width: 200px;
+}
+
+
+.card{
+    margin: 2px;
+    display: inline-block;
+    justify-content: space-around;
+
+}

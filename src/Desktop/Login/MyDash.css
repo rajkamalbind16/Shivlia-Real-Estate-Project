@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.left{
+background-color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 1px solid black;
+display: inline-block;
+width: 500px;
+height: 700px;
+color: rgb(24, 24, 23);
+}
+
+.right{
+    border: 1px solid black;
+    margin: 1px;
+    width: 250px;
+    padding: 2px 20px;
+    position: absolute;
+    right: 90px;
+    top: 40px;
+    font-size: 20px
+
+}

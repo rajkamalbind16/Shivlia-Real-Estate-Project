@@ -1,0 +1,108 @@
+*{
+    background-color: white;
+}
+.order-form{
+border: 1px solid red;
+width: 400px;
+height: 450px;
+position: absolute;
+top: 100px;
+right: 20px;
+border-radius: 10px;
+margin: 10px;
+padding: 15px;
+text-align: center;
+}
+
+.form{
+    text-decoration: none;
+    padding: 5px;
+    margin: 3px;
+    text-align: center;
+}
+
+
+button{
+    padding: 2px 10px;
+    color: red;
+    background-color: white;
+    align-items: center;
+}
+button:hover{
+    color: black;
+    background-color: burlywood;
+}
+
+.realestate-pic{
+height: 500px;
+width: 100%;
+}
+
+.main-container{
+    border: 1px solid red;
+    position: relative;
+    bottom:  400px;
+    left: 250px;
+    height: 350px;
+    width: 500px;
+    text-align: center;
+    border-radius: 40px 0px 40px 0px;
+}
+p{
+    display: inline-block;
+}
+
+
+/* benifits you get */
+.benefits{
+width: 100%;
+height: 400px;
+
+
+}
+
+.div1{
+    position: relative;
+    width: 300px;
+    height: 160px;
+    padding: 25px;
+
+}
+
+.div2 {
+    width: 300px;
+    height: 160px;
+    position: relative;
+    left:400px;
+    bottom: 210px;
+    padding: 25px;
+
+
+}
+
+.div3{
+    width: 300px;
+    height: 160px;
+    position: relative;
+    left: 850px;
+    bottom: 420px;
+    padding: 25px;
+}
+
+
+/* testimonial */
+
+#card-testimonial1{
+height: 150px;
+width: 550px;
+margin: 10px;
+padding: 20px;
+}
+#card-testimonial2{
+height: 150px;
+width: 550px;
+margin: 10px;
+padding: 20px;
+position: relative;
+bottom: 20px;
+}
